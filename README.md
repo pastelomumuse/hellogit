@@ -1,4 +1,4 @@
-# Dépôt de démonstration poyr le cours 3
+# Dépôt de démonstration pour le cours 3 (bravo ! :P)
 Coucou !!
 
 - Oh une liste
